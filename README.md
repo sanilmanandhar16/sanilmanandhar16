@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sanilmanandhar16
 - 👀 I’m interested in learning more programming language.
-- 🌱 I’m currently learning React Js.
+- 🌱React Js
+- Currently Learning ASP .NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanilmanandhar888@gmail.com
 
